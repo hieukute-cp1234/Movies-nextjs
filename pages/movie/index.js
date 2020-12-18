@@ -5,7 +5,7 @@ import HeadTags from '../../components/header'
 export default function Movies(){
   return (
     <>
-      <HeadTags title="Search movies hihi" />
+      <HeadTags title="Search movies nha" />
       <SearchMovie/>
       <ListMovie/>
     </>
